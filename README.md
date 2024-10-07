@@ -7,7 +7,7 @@ Created on Macbook OS Sonoma 14.7 using Python 3.9.7 64-bit in Visual Studio Cod
 
 To Play the game, one must have a strava account: https://www.strava.com/
 
-As the host, one must follow the steps in this video to get valid keys: 
+As the host, one must follow the steps in these videos to get valid tokens: 
 
 Video 1 (Getting Credentials to Host game): https://www.youtube.com/watch?v=sgscChKfGyg&list=PLO6KswO64zVvcRyk0G0MAzh5oKMLb6rTW&index=1&ab_channel=franchyze923
 
