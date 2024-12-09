@@ -1,5 +1,5 @@
 # RunningChess
-A chess game that uses milage as points instead of turns 
+A chess game that uses mileage as points instead of turns 
 
 Credit for code: https://www.youtube.com/watch?v=lOZFHhEtc8E&list=PLO6KswO64zVvcRyk0G0MAzh5oKMLb6rTW&index=7&ab_channel=franchyze923
 
@@ -9,7 +9,7 @@ To Play the game, one must have a strava account: https://www.strava.com/
 
 As the host, one must follow the steps in these videos to get valid tokens: 
 
-Video 1 (Getting Credentials to Host game): https://www.youtube.com/watch?v=sgscChKfGyg&list=PLO6KswO64zVvcRyk0G0MAzh5oKMLb6rTW&index=1&ab_channel=franchyze923
+Video 1 (Getting Credentials to Host game): https://www.youtube.com/watch?v=GtML1ZFoq6Y&list=PLO6KswO64zVvcRyk0G0MAzh5oKMLb6rTW&index=2&ab_channel=franchyze923)
 
 Video 2 (Updating key type to activity:read_all : https://www.youtube.com/watch?v=sgscChKfGyg&list=PLO6KswO64zVvcRyk0G0MAzh5oKMLb6rTW&index=1&ab_channel=franchyze923
 
